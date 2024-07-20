@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning MERN<br>🎯 Goals: Full Stack Developer<br>🎲 Fun fact: "Automation Tester is equally knowdlegable to Developer"</p>
+<p align="left">📚 I'm currently learning MERN<br>🎯 Goals: Full Stack Developer<br>🎲 Fun fact: "The difference between SDET and SDE is 19/20"</p>
 
 ###
 
