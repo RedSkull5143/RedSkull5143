@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning MERN<br>🎯 Goals: Full Stack Developer<br>🎲 Fun fact: 🕒 "Sleep is for the weak. 💤 I can code at 2 am and still find prime numbers. 😎 Call me 'The Bug Whisperer.' 🐞🔍"</p>
+<p align="left">📚 I'm currently learning MERN<br>🎯 Goals: Full Stack Developer<br>🎲 Fun fact: "Automation Tester is equally knowdlegable to Developer"</p>
 
 ###
 
