@@ -7,12 +7,11 @@
 ---
 
 ### 🚀 About Me
-I'm a **CSE Graduate** and an **Automation Architect** passionate about bridging the gap between development and quality. I don't just test code; I build the tools that make testing effortless.
+I'm a **CSE Graduate** and an **Automation Engineer** passionate about bridging the gap between development and quality. I don't just test code; I build the tools that make testing effortless.
 
 - 🛠️ **Latest Project**: [QA Forge](https://github.com/RedSkull5143/qa-forge) — An enterprise-grade AI test generator for Jira.
 - 📚 **Currently Learning**: Scaling MERN applications and advanced prompt engineering.
 - 🎯 **Goals**: Building high-performance, quality-first software at scale.
-- 🎲 **Fun Fact**: *"The difference between SDET and SDE is 19/20"*
 
 ---
 
